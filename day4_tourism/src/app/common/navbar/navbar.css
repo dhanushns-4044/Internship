@@ -1,0 +1,10 @@
+ul{
+    color: rgb(11, 11, 11);
+    background-color: rgb(197, 9, 222);
+    padding: 20px;
+    justify-content: space-around;
+    display: flex;
+    list-style-type: none;
+    cursor: pointer;
+    
+}
